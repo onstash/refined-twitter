@@ -1,8 +1,4 @@
-# Deprecated
-
-For the same reason as [Anatine](https://github.com/sindresorhus/anatine#deprecated).
-
----
+Forked from: https://github.com/sindresorhus/refined-twitter-old
 
 # <img src="extension/icon.png" width="45" align="left"> Refined Twitter
 
